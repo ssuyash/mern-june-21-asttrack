@@ -1,0 +1,67 @@
+OOP => Object Oriented Programming => 
+        data + method => mdularity
+
+Student
+    name 
+    dob 
+    email
+    metohd1(){
+
+    }
+
+functional programming => 
+
+
+
+1) Encapsulation
+2) Class & object
+3) Inheritancex
+4) Polymorphism
+5) Abstraction => (feature not impletation)  (user => devloper)
+
+1) Encapsulation => 
+        ( Data + methods ) 
+
+2) Class 
+        (class keyword, constructor function)
+
+
+3) Inheritance
+        we are extending features of a class from outsi that class
+
+
+
+4) Polymorphism
+    1) overloading
+    2) overriding (Inheritance)
+
+
+
+Component => facebook developer
+
+Mycomponent=> devoper
+
+class Mycomponent extends Component{
+    render
+}
+
+
+SBI  => 
+UBI 
+ICICI 
+
+
+committe => 
+        verifyCard() => true/false 
+        askForAction() => [widrawls, balanceChk]
+        checkPin() => true/false
+        .
+        .
+        .
+        .
+        .
+
+
+
+
+upi => 
