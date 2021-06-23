@@ -37,3 +37,7 @@ var person = {
 
 
 person.printHobbies()
+
+
+
+
